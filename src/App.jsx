@@ -115,7 +115,7 @@ function App() {
           </div>
 
           {/* 🔹 Input area */}
-          <div className="p-3 bg-zinc-800 flex flex-col sm:flex-row items-center gap-2 border-t border-zinc-700">
+          <div className="p-3 bg-zinc-800 flex flex-col sm:flex-row items-center gap-2 border-t border-zinc-700 mb-5">
             <input
               type="text"
               value={question}
